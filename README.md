@@ -1,6 +1,6 @@
-# Introduction
+## Introduction
 ...
-# How to install
+## How to install
 ```
 install node, npm
 $> git clone git@github.com:PhuPhuoc/UserManagement_MERN.git
@@ -8,7 +8,6 @@ $> cd UserManagement_MERN
 ```
 ## How to run backend
 ```
-<!-- run backend -->
 $> cd backend
 $> npm install
 $> npm start
@@ -42,3 +41,4 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 ```
+Then open http://localhost:3000 on the browser and enjoy 😀
